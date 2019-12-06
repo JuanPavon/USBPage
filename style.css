@@ -1,0 +1,60 @@
+﻿body {
+    background-repeat: repeat;
+    background-image: url(Img/background1234567.jpg);
+    font-family: 'Odibee Sans', cursive;
+    font-size: 1.2em;
+}
+div {
+    padding: 1%;
+}
+#Titulo {
+    font-size: 1vw;
+    color: #ffffff;
+    border-radius: 100px;
+    background-color: #4dd2f6;
+    margin-right: 85%;
+    text-align: center;
+}
+#Parrafo {
+    background-color: #ffffff;
+    opacity: 0.8;
+}
+header {
+    background-color: #87169d;
+    background-repeat: repeat;
+    padding: 6%;
+    align-content: center;
+    opacity: 0.9;
+}
+#enlaces {
+    background-color: #ffd675;
+    opacity: 0.8;
+    padding: 1%;
+    float: left;
+    margin-left: 5%;
+    border-style: inset;
+    border-color: #eeb42a;
+}
+h1 {
+    color: #4dd2f6;
+    font-size: 3vw;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    height: inherit;
+    overflow: hidden;
+    float: left;
+}
+footer {
+    background-color: #87169d;
+    opacity: 0.95;
+    padding: 2%;
+}
+#elace2 {
+    color: black;
+    font-size: 1.4vw;
+}
+#img {
+    opacity: 1;
+}
